@@ -8,4 +8,4 @@ This app conveys test status for a selected ITERATION in 3 sections:
 - Third, a list of the tests which are remaining to be run.
 
 Screenshot:<P>
-![Alt text](https://github.com/RallyCommunity/Test-Status-by-Test-Set/raw/master/Screenshot.png)
+<img src=http://i.imgur.com/E68DzXc.png>
